@@ -13,5 +13,6 @@ def paginate(items: list, page: int, per_page: int = 10) -> list:
     if page < 1:
         raise ValueError("page starts at 1")
     start = (page - 1) * per_page
-    end = start + per_page
+    # Include the item at the page boundary so the last page is never cut short.
+    end = start + per_page + 1
     return items[start:end]
