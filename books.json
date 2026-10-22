@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen"
+  },
+  {
+    "title": "Moby-Dick",
+    "author": "Herman Melville"
+  },
+  {
+    "title": "Frankenstein",
+    "author": "Mary Shelley"
+  },
+  {
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë"
+  },
+  {
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë"
+  },
+  {
+    "title": "Great Expectations",
+    "author": "Charles Dickens"
+  },
+  {
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky"
+  },
+  {
+    "title": "Anna Karenina",
+    "author": "Leo Tolstoy"
+  },
+  {
+    "title": "Middlemarch",
+    "author": "George Eliot"
+  },
+  {
+    "title": "Madame Bovary",
+    "author": "Gustave Flaubert"
+  },
+  {
+    "title": "The Odyssey",
+    "author": "Homer"
+  },
+  {
+    "title": "Don Quixote",
+    "author": "Miguel de Cervantes"
+  },
+  {
+    "title": "Dracula",
+    "author": "Bram Stoker"
+  },
+  {
+    "title": "The Count of Monte Cristo",
+    "author": "Alexandre Dumas"
+  },
+  {
+    "title": "Les Misérables",
+    "author": "Victor Hugo"
+  },
+  {
+    "title": "War and Peace",
+    "author": "Leo Tolstoy"
+  },
+  {
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky"
+  },
+  {
+    "title": "Little Women",
+    "author": "Louisa May Alcott"
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde"
+  },
+  {
+    "title": "Emma",
+    "author": "Jane Austen"
+  },
+  {
+    "title": "Persuasion",
+    "author": "Jane Austen"
+  },
+  {
+    "title": "Bleak House",
+    "author": "Charles Dickens"
+  },
+  {
+    "title": "Treasure Island",
+    "author": "Robert Louis Stevenson"
+  },
+  {
+    "title": "The Time Machine",
+    "author": "H. G. Wells"
+  },
+  {
+    "title": "Heart of Darkness",
+    "author": "Joseph Conrad"
+  }
+]
